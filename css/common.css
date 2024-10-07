@@ -1,0 +1,101 @@
+
+
+.STYLE1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-size: 26px;
+}
+.STYLE4 {
+	font-size: 18px;
+	font-family: "Times New Roman", Times, serif;
+}
+.STYLE6 {color: #666666}
+.STYLE8 {
+	font-size: 21px;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+}
+.STYLE10 {color: #000000}
+.red {
+	color: #000;
+}
+.selected {
+	color: #030303;
+	font-size: 18px;
+	font-family: "Times New Roman", Times, serif;
+}
+.STYLE4 {
+	font-size: 18px;
+}
+.STYLE4 {
+	font-size: 18px;
+}
+.STYLE4 {
+	font-size: 18px;
+}
+.STYLE4 strong {
+	font-size: 18px;
+}
+.linghe {
+	font-size: 18px;
+	font-family: "Times New Roman", Times, serif;
+}
+.STYLE41 {font-size: 18px;
+	font-family: "Times New Roman", Times, serif;
+}
+.STYLE41 {font-size: 18px;
+}
+.STYLE41 {font-size: 18px;
+}
+.STYLE41 {	font-size: 18px;
+	font-style: normal;
+	font-weight: normal;
+}
+.STYLE411 {font-size: 18px;
+	font-family: "Times New Roman", Times, serif;
+}
+.STYLE411 {font-size: 18px;
+}
+.STYLE411 {font-size: 18px;
+}
+.STYLE411 {font-size: 18px;
+}
+.selected1 {color: #F00;
+	font-size: 18px;
+	font-family: "Times New Roman", Times, serif;
+}
+.name {
+	font-weight: bold;
+}
+.STYLE4111 {font-size: 18px;
+	font-family: "Times New Roman", Times, serif;
+}
+.STYLE4111 {font-size: 18px;
+}
+.STYLE4111 {font-size: 18px;
+}
+.STYLE4111 {font-size: 18px;
+	font-style: normal;
+	font-weight: normal;
+}
+.STYLE4112 {font-size: 18px;
+	font-family: "Times New Roman", Times, serif;
+}
+.STYLE4112 {font-size: 18px;
+}
+.STYLE4112 {font-size: 18px;
+}
+.STYLE4112 {font-size: 18px;
+}
+
+.table0{
+    width: 70%;
+    border: 0;
+    margin: 0 auto;
+}
+
+.table1{
+    width: 85%;
+    border: 1;
+    margin: left;
+}
